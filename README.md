@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndyCode2022
 - 👀 I’m interested in programming, computers, gym and video games
-- 🌱 I’m currently learning javascript and python
+- 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on projects to do with python and javascript
 - 📫 How to reach me: https://www.linkedin.com/in/andrew-webster-08aa041b5/
 
