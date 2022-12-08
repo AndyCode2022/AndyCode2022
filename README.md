@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndyCode2022
+- 👋 Hi, I’m Andrew Webster
 - 👀 I’m interested in programming, computers, gym and video games
 - 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on projects to do with python and javascript
